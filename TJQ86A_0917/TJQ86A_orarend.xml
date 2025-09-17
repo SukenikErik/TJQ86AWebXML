@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TJQ86A_orarend>
+    <ora id="1" tipus="eloadas">
+        <targy>Szamitogep Halozatok</targy>
+        <idopont>
+            <nap>Hetfo</nap>
+            <tol>08:00</tol>
+            <ig>10:00</ig>
+        </idopont>
+        <helyszin>E1</helyszin>
+        <oktato>Dr. Kovács Szilveszter Dezső</oktato>
+        <szak>Programtervezo informatikus</szak>
+    </ora>
+
+    <ora id="2" tipus="eloadas">
+        <targy>Valoszinuseg-szamitas</targy>
+        <idopont>
+            <nap>Hetfo</nap>
+            <tol>10:00</tol>
+            <ig>12:00</ig>
+        </idopont>
+        <helyszin>XV C1 I. em. 101</helyszin>
+        <oktato>Dr. Fegyverneki Sandor</oktato>
+        <szak>Programtervezo informatikus</szak>
+    </ora>
+
+    <ora id="3" tipus="eloadas">
+        <targy>Mesterseges Intelligencia alapok</targy>
+        <idopont>
+            <nap>Kedd</nap>
+            <tol>10:00</tol>
+            <ig>12:00</ig>
+        </idopont>
+        <helyszin>E32</helyszin>
+        <oktato>Kunné Dr. Tamás Judit;Fazekas Levente Áron</oktato>
+        <szak>Programtervezo informatikus</szak>
+    </ora>
+
+    <ora id="4" tipus="gyakorlat">
+        <targy>Mesterseges Intelligencia alapok</targy>
+        <idopont>
+            <nap>Kedd</nap>
+            <tol>12:00</tol>
+            <ig>14:00</ig>
+        </idopont>
+        <helyszin>E32</helyszin>
+        <oktato>Fazekas Levente Áron</oktato>
+        <szak>Programtervezo informatikus</szak>
+    </ora>
+
+    <ora id="5" tipus="gyakorlat">
+        <targy>Valoszinuseg-szamitas</targy>
+        <idopont>
+            <nap>Kedd</nap>
+            <tol>14:00</tol>
+            <ig>16:00</ig>
+        </idopont>
+        <helyszin>A1/316 A1 III. em. 316</helyszin>
+        <oktato>Tóth Norbert</oktato>
+        <szak>Programtervezo informatikus</szak>
+    </ora>
+
+    <ora id="6" tipus="eloadas">
+        <targy>Algoritmusok es vizsgalat</targy>
+        <idopont>
+            <nap>Kedd</nap>
+            <tol>14:00</tol>
+            <ig>16:00</ig>
+        </idopont>
+        <helyszin>XXX A1 III. em. 305</helyszin>
+        <oktato>Dr. Házy Attila</oktato>
+        <szak>Programtervezo informatikus</szak>
+    </ora>
+
+    <ora id="7" tipus="gyakorlat">
+        <targy>Algoritmusok es vizsgalat</targy>
+        <idopont>
+            <nap>Kedd</nap>
+            <tol>16:00</tol>
+            <ig>18:00</ig>
+        </idopont>
+        <helyszin>XXX A1 III. em. 305</helyszin>
+        <oktato>Dr. Házy Attila</oktato>
+        <szak>Programtervezo informatikus</szak>
+    </ora>
+
+    <ora id="8" tipus="eloadas">
+        <targy>Adatkezeles XML-ben</targy>
+        <idopont>
+            <nap>Szerda</nap>
+            <tol>08:00</tol>
+            <ig>10:00</ig>
+        </idopont>
+        <helyszin>T050</helyszin>
+        <oktato>Dr. Kovács László József</oktato>
+        <szak>Programtervezo informatikus</szak>
+    </ora>
+
+    <ora id="9" tipus="eloadas">
+        <targy>Szoftvertechnologia</targy>
+        <idopont>
+            <nap>Szerda</nap>
+            <tol>08:00</tol>
+            <ig>10:00</ig>
+        </idopont>
+        <helyszin>E3</helyszin>
+        <oktato>Dr. Mileff Péter</oktato>
+        <szak>Programtervezo informatikus</szak>
+    </ora>
+
+    <ora id="10" tipus="gyakorlat">
+        <targy>Adatkezeles XML-ben</targy>
+        <idopont>
+            <nap>Szerda</nap>
+            <tol>10:00</tol>
+            <ig>12:00</ig>
+        </idopont>
+        <helyszin>L103</helyszin>
+        <oktato>Dr. Bednarik László</oktato>
+        <szak>Programtervezo informatikus</szak>
+    </ora>
+
+    <ora id="11" tipus="gyakorlat">
+        <targy>Szoftvertechnologia</targy>
+        <idopont>
+            <nap>Szerda</nap>
+            <tol>10:00</tol>
+            <ig>12:00</ig>
+        </idopont>
+        <helyszin>E3</helyszin>
+        <oktato>Dr. Mileff Péter</oktato>
+        <szak>Programtervezo informatikus</szak>
+    </ora>
+
+    <ora id="12" tipus="gyakorlat">
+        <targy>Szamitogep Halozatok</targy>
+        <idopont>
+            <nap>Csutortok</nap>
+            <tol>10:00</tol>
+            <ig>12:00</ig>
+        </idopont>
+        <helyszin>E1</helyszin>
+        <oktato>Dr. Kovács Szilveszter Dezső</oktato>
+        <szak>Programtervezo informatikus</szak>
+    </ora>
+
+</TJQ86A_orarend>
