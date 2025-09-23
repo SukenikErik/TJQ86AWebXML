@@ -1,0 +1,38 @@
+body{
+   background:
+      radial-gradient(32px at calc(100% + calc(32px*.866)) 50%,#c7cdd8 99%, #0000 101%) 0 calc(-5*32px/2),
+      radial-gradient(32px at calc(100% + calc(32px*.866)) 50%,#c7cdd8 99%, #0000 101%) calc(-2*calc(32px*.866)) calc(32px/2),
+      radial-gradient(32px at 100% 50%,#b2a7b4 99%, #0000 101%) 0 calc(-2*32px),
+      radial-gradient(32px,#c7cdd8 99%, #0000 101%) calc(32px*.866) calc(-5*32px/2),
+      radial-gradient(32px,#b2a7b4 99%, #0000 101%) calc(32px*.866) calc( 5*32px/2),
+      radial-gradient(32px at 100% 100%,#c7cdd8 99%, #0000 101%) 0 calc(-1*32px),   
+      radial-gradient(32px at 0%   50% ,#c7cdd8 99%, #0000 101%) 0 calc(-4*32px),
+      radial-gradient(32px,#b2a7b4 99%, #0000 101%) calc(-1*calc(32px*.866)) calc(-7*32px/2),
+      radial-gradient(32px,#c7cdd8 99%, #0000 101%) calc(-1*calc(32px*.866)) calc(-5*32px/2),
+      radial-gradient(32px at 100% 50%,#b2a7b4 99%, #0000 101%) calc(-2*calc(32px*.866)) 32px,
+      radial-gradient(32px,#c7cdd8 99%, #0000 101%) calc(-1*calc(32px*.866)) calc(32px/ 2),
+      radial-gradient(32px,#b2a7b4 99%, #0000 101%) calc(-1*calc(32px*.866)) calc(32px/-2),
+      radial-gradient(32px,#c7cdd8 99%, #0000 101%) 0 calc(-1*32px),
+      radial-gradient(32px,#b2a7b4 99%, #0000 101%) calc(32px*.866) calc(32px/-2),
+      radial-gradient(32px,#c7cdd8 99%, #0000 101%) calc(32px*.866) calc(32px/ 2) 
+      #b2a7b4;
+background-size: calc(4*calc(32px*.866)) calc(6*32px);
+
+margin-top: 50px;
+}
+
+h1{
+    text-align: center;
+}
+
+table{ 
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: large;
+    background-color: rgba(255, 255, 255, 0.5);
+}
+
+table, th, td{
+border: 1px solid black;
+}

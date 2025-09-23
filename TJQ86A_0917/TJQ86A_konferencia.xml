@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<konferencia>
+  <cim>Konferencia</cim>
+  <datum>2025-09-23</datum>
+  <helyszin>Miskolc</helyszin>
+  <eloado>
+    <nev>Eloado Neve</nev>
+    <lakcim>Eloado Lakcíme</lakcim>
+    <adoszam>12345678-1-12</adoszam>
+  </eloado>
+  <hallgatok>
+    <hallgato>
+      <nev>Hallgato Neve</nev>
+      <lakcim>Hallgato Lakcíme</lakcim>
+    </hallgato>
+    <hallgato>
+      <nev>Hallgato2 Neve</nev>
+      <lakcim>Hallgato2 Lakcíme</lakcim>
+    </hallgato>
+  </hallgatok>
+</konferencia>
